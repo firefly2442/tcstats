@@ -1,0 +1,29 @@
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+body
+{
+background-color: #ffffff;
+}
+
+table {
+border-style: outset;
+}
+
+tr.box_titles {
+  background-color: #6699FF;
+}
+
+tr.general_row {
+  background-color: #CCCCCC;
+}
+
+a:link    {color:#000066}
+a:visited {color:#000066}
+a:active  {color:#000033}
+a:hover   {color:#000033}
